@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wirooveer.luqi.info/sitemap.xml
